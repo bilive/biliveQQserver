@@ -5,9 +5,11 @@
 
 
 编译过后管理页面会出现相应管理选项
+![image](https://raw.githubusercontent.com/QHDS/biliveQQserver/master/QQserver.png)
+![image](https://raw.githubusercontent.com/QHDS/biliveQQserver/master/QQserver2.png)
+
 
 项目地址:http://bilive.dcaoao.com/
-
 
 使用QQ机器人进行提醒，使用之前请添加Bot为好友
 
@@ -19,6 +21,7 @@ Bot可以提醒群，个人，可多个设置
 
 消息若不超过30个字符，会以QQ消息的方式送达，如果消息超过30个字符，则会以链接的形式送达
 
+![image](https://raw.githubusercontent.com/QHDS/biliveQQserver/master/TIM%E5%9B%BE%E7%89%8720190517164348.jpg)
 
 QQbot号码:2173334625
 
@@ -40,7 +43,7 @@ Bot答案:从哪去
 消息发送至哪个QQ群(关闭功能，未完善）:  
 
 
-
+当然，本项目不只是适用于bilive，同样适用于各种支持post，Get提交消息的程序
 
 每条KEY每天只有100条发送信息的权限，服务器只保留一周的数据
 KEY同等于你的密码，请妥善保管不要让他人知道
